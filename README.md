@@ -1,4 +1,6 @@
 # Python Face Recognition
+Because its not as hard as everyone makes it seem
+
 ## Requirements
 - Python3
 - Visual Studio for C++
